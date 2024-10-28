@@ -1,0 +1,4 @@
+repository "capstone-official@jarcher888@cloud"
+  path "/"
+    br "/main"
+    co "/main"

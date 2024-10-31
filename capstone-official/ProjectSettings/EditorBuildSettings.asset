@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OrthoPage.unity
     guid: 36ae1cfb7c429e64bbd28a0ce8ca68b0
+  - enabled: 1
+    path: Assets/Scenes/Exercise.unity
+    guid: 3d42a2f30bc211c4dbe798e990f49a9a
   m_configObjects: {}

@@ -9,6 +9,12 @@ public class GameScript : MonoBehaviour
     public void GoHome(){
         SceneManager.LoadSceneAsync("HomePage");
     }
+    public void GoToExercise(){
+        SceneManager.LoadSceneAsync("Exercise");
+    }
+    public void GoToPodiatry(){
+        SceneManager.LoadSceneAsync("PodiatryPage");
+    }
     // Start is called before the first frame update
     void Start()
     {

@@ -21,6 +21,18 @@ EditorBuildSettings:
     path: Assets/Scenes/OrthoPage.unity
     guid: 36ae1cfb7c429e64bbd28a0ce8ca68b0
   - enabled: 1
-    path: Assets/Scenes/Exercise.unity
+    path: Assets/Scenes/BigToePlantarFascia.unity
     guid: 3d42a2f30bc211c4dbe798e990f49a9a
+  - enabled: 1
+    path: Assets/Scenes/CalfStretchonStep.unity
+    guid: 432d623901dd8ec4db0e31536c2e11fb
+  - enabled: 1
+    path: Assets/Scenes/FrozenBottleRoll.unity
+    guid: a2961142675b8bf4394feaa760f758db
+  - enabled: 1
+    path: Assets/Scenes/PlantarFasciaStretch.unity
+    guid: 8cec3c014fe800046aad96f90892d80b
+  - enabled: 1
+    path: Assets/Scenes/StandingStretch.unity
+    guid: ca72ae305ee581f408f94719439e76af
   m_configObjects: {}

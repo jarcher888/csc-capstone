@@ -9,8 +9,22 @@ public class GameScript : MonoBehaviour
     public void GoHome(){
         SceneManager.LoadSceneAsync("HomePage");
     }
-    public void GoToExercise(){
-        SceneManager.LoadSceneAsync("Exercise");
+    public void GoToBigToe(){
+        SceneManager.LoadSceneAsync("BigToePlantarFascia");
+    }
+
+    public void GoToCalfOnStep(){
+        SceneManager.LoadSceneAsync("CalfStretchonStep");
+    }
+
+    public void GoToFrozenBottleRoll(){
+        SceneManager.LoadSceneAsync("FrozenBottleRoll");
+    }
+    public void GoToPlantarFasciaStretch(){
+        SceneManager.LoadSceneAsync("PlantarFasciaStretch");
+    }
+    public void GoToStandingStretch(){
+        SceneManager.LoadSceneAsync("StandingStretch");
     }
     public void GoToPodiatry(){
         SceneManager.LoadSceneAsync("PodiatryPage");

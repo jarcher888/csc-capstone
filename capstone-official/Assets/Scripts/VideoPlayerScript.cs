@@ -14,6 +14,7 @@ public class VideoPlayerScript : MonoBehaviour
     void Start()
     {
         LoadVideo();
+        videoPlayer.time = 0;
         videoPlayer.Pause();
         PlayAudio();
     }

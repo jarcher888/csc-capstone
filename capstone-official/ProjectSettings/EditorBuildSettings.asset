@@ -6,33 +6,60 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LandingPage.unity
+    path: Assets/Scenes/LandingPages/LandingPage.unity
     guid: b80a0d6ece153f9419f75aa83c6db27d
   - enabled: 1
-    path: Assets/Scenes/HomePage.unity
+    path: Assets/Scenes/LandingPages/HomePage.unity
     guid: 8722acf5a9a25af459e4e80f291eb98f
   - enabled: 1
-    path: Assets/Scenes/PodiatryPage.unity
+    path: Assets/Scenes/PodiatryScenes/PodiatryPage.unity
     guid: b503796d62bb32d4a993807a162de55d
   - enabled: 1
-    path: Assets/Scenes/SpeechPage.unity
+    path: Assets/Scenes/SpeechScenes/SpeechPage.unity
     guid: 283b89f0113e19c48828dff7d5b0250e
   - enabled: 1
-    path: Assets/Scenes/OrthoPage.unity
+    path: Assets/Scenes/OrthoScenes/OrthoPage.unity
     guid: 36ae1cfb7c429e64bbd28a0ce8ca68b0
   - enabled: 1
-    path: Assets/Scenes/BigToePlantarFascia.unity
+    path: Assets/Scenes/PodiatryScenes/BigToePlantarFascia.unity
     guid: 3d42a2f30bc211c4dbe798e990f49a9a
   - enabled: 1
-    path: Assets/Scenes/CalfStretchonStep.unity
+    path: Assets/Scenes/PodiatryScenes/CalfStretchonStep.unity
     guid: 432d623901dd8ec4db0e31536c2e11fb
   - enabled: 1
-    path: Assets/Scenes/FrozenBottleRoll.unity
+    path: Assets/Scenes/PodiatryScenes/FrozenBottleRoll.unity
     guid: a2961142675b8bf4394feaa760f758db
   - enabled: 1
-    path: Assets/Scenes/PlantarFasciaStretch.unity
+    path: Assets/Scenes/PodiatryScenes/PlantarFasciaStretch.unity
     guid: 8cec3c014fe800046aad96f90892d80b
   - enabled: 1
-    path: Assets/Scenes/StandingStretch.unity
+    path: Assets/Scenes/PodiatryScenes/StandingStretch.unity
     guid: ca72ae305ee581f408f94719439e76af
+  - enabled: 1
+    path: Assets/Scenes/OrthoScenes/CapsuleStretch.unity
+    guid: 6c86fbf188def874a82ce5c97cfaa10f
+  - enabled: 1
+    path: Assets/Scenes/OrthoScenes/OpenBookStretch.unity
+    guid: 3fa0b2c79b0bbc448a2b93cfd297d53a
+  - enabled: 1
+    path: Assets/Scenes/OrthoScenes/PecStretch.unity
+    guid: c054e1fa6340a574da1d3dbd39a3a51e
+  - enabled: 1
+    path: Assets/Scenes/OrthoScenes/SleeperShoulderStretch.unity
+    guid: b923d8fa36913c84bb0812b43414969c
+  - enabled: 1
+    path: Assets/Scenes/OrthoScenes/ShoulderWallClimbs.unity
+    guid: 40a8f8b6aca5f3a44a218c9d467ba745
+  - enabled: 1
+    path: Assets/Scenes/SpeechScenes/childFSoundSpeech.unity
+    guid: 3cac5675ae2328b4c9bc808860fa75c9
+  - enabled: 1
+    path: Assets/Scenes/SpeechScenes/childRSoundSpeech.unity
+    guid: ea179c08fc40a8747af9da3d424c278f
+  - enabled: 1
+    path: Assets/Scenes/SpeechScenes/childSSoundSpeech.unity
+    guid: 15934ba431f7e1541b40786d1e099da2
+  - enabled: 1
+    path: Assets/Scenes/SpeechScenes/childShSoundSpeech.unity
+    guid: 9c844cc33ca6a1942b71c9e5c347a59c
   m_configObjects: {}
